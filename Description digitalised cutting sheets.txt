@@ -1,0 +1,12 @@
+Digitalised cutting sheets are constructed as follows (containing 8 columns): 
+
+Bagnumber | Length before | Length after | Placement of cut 1 | Amount of cut 1
+| Placement of cut 2 | Amount of cut 2 | Placement of cut 3 | Amount of cut 3
+| Placement of cut 4 | Amount of cut 4 | 
+
+This is slightly diffferent than stated in the none-digital cutting sheets, 
+however this was done in order to simplify the process of setting in breaks. 
+
+The process was repeated for each run from the EGRIP gas campaign 2023. 
+
+Author: Marie Cecilie Boysen. 
